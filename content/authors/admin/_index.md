@@ -15,7 +15,7 @@ role: Undergraduate of Software Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Jiangxi Agricultural University
-    url: https://www.stanford.edu/
+    url: https://www.jxau.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, multimodal interaction and causal reasoning.
